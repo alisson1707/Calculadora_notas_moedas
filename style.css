@@ -1,0 +1,35 @@
+body{
+     background: linear-gradient(135deg, #0a0a0a, #1a001f);
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+    background: #1f1f1f;
+    color: #fff;
+
+    margin-bottom: 15px;
+}
+button {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+
+    background: linear-gradient(45deg, #7b2cbf, #9d4edd);
+    color: white;
+    font-weight: bold;
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button :hover{
+   transform: scale(1.05);
+    box-shadow: 0 0 10px #9d4edd;
+    }
