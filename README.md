@@ -8,23 +8,22 @@ A aplicação lê um valor monetário (com duas casas decimais) e calcula o meno
 
 As cédulas e moedas consideradas são:
 
--Notas
+## Notas
 
-R$ 100.00
-R$ 50.00
-R$ 20.00
-R$ 10.00
-R$ 5.00
-R$ 2.00
+- R$ 100.00
+- R$ 50.00
+- R$ 20.00
+- R$ 10.00
+- R$ 5.00
+- R$ 2.00
 
--Moedas
-
-R$ 1.00
-R$ 0.50
-R$ 0.25
-R$ 0.10
-R$ 0.05
-R$ 0.01
+## Moedas
+- R$ 1.00
+- R$ 0.50
+- R$ 0.25
+- R$ 0.10
+- R$ 0.05
+- R$ 0.01
 
 # Tecnologias utilizadas
 
